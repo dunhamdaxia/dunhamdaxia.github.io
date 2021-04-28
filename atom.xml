@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GuoYuan</title>
+  
+  <subtitle>1994</subtitle>
+  <link href="https://dunhamdaxia.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://dunhamdaxia.github.io/"/>
+  <updated>2021-04-28T07:02:47.213Z</updated>
+  <id>https://dunhamdaxia.github.io/</id>
+  
+  <author>
+    <name>GuoYuan</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>写给自己</title>
+    <link href="https://dunhamdaxia.github.io/2021/04/28/plan/"/>
+    <id>https://dunhamdaxia.github.io/2021/04/28/plan/</id>
+    <published>2021-04-28T06:54:30.000Z</published>
+    <updated>2021-04-28T07:02:47.213Z</updated>
+    
+    
+    
+    
+    <category term="记录" scheme="https://dunhamdaxia.github.io/categories/%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="计划" scheme="https://dunhamdaxia.github.io/tags/%E8%AE%A1%E5%88%92/"/>
+    
+  </entry>
+  
+</feed>
